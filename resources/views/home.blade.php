@@ -26,7 +26,7 @@
                             target="_blank"
                             class="underline hover:text-gray-400 transition-colors duration-300"
                         >
-                            Panang
+                            Panang.
                         </a>
                     </p>
                 </div>
