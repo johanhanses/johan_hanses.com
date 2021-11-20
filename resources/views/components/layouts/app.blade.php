@@ -13,6 +13,8 @@
     <!-- Styles -->
     <style>[x-cloak] {display: none;}</style>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <script src="{{ asset('js/app.js') }}" defer></script>
 </head>
 
 <body class="bg-gray-900 text-gray-200 font-poppins text-base">

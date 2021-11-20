@@ -17,5 +17,7 @@
         "postcss": "^8.3.11",
         "tailwindcss": "^2.2.19"
     },
-    "dependencies": {}
+    "dependencies": {
+        "@hotwired/turbo-rails": "^7.0.1"
+    }
 }
