@@ -14,31 +14,43 @@
                 <li>PHPStorm</li>
                 <li>VS Code</li>
             </ul>
-            
-                <h3 class="text-base mt-4 mb-1">Terminal</h3>
-                <li>Hyper</li>
 
+                <h3 class="text-base mt-4 mb-1">Terminal</h3>
+            <ul>
+                <li>Hyper</li>
+            </ul>
                 <h3 class="text-base mt-4 mb-1">Server</h3>
+            <ul>
                 <li>Transmit</li>
                 <li>GitFTP-Deploy</li>
+            </ul>
 
                 <h3 class="text-base mt-4 mb-1">Browser</h3>
+            <ul>
                 <li>Firefix Developer Edition</li>
                 <li>Safari</li>
                 <li>Chrome</li>
+            </ul>
 
                 <h3 class="text-base mt-4 mb-1">Database</h3>
+            <ul>
                 <li>Table Plus</li>
                 <li>DBngin</li>
+            </ul>
 
                 <h3 class="text-base mt-4 mb-1">API-testing</h3>
+            <ul>
                 <li>Postman</li>
+            </ul>
 
                 <h3 class="text-base mt-4 mb-1">Communication</h3>
+            <ul>
                 <li>Slack</li>
                 <li>MacOS Mail app</li>
+            </ul>
 
                 <h3 class="text-base mt-4 mb-1">Window manager and productivity</h3>
+            <ul>
                 <li>Alfred</li>
                 <li>Moom</li>
             </ul>
