@@ -9,11 +9,12 @@
 
             <h2 class="mt-4 mb-2 text-lg underline">Software</h2>
 
-            <ul>
                 <h3 class="text-base mt-4 mb-1">Editor/IDE</h3>
+            <ul>
                 <li>PHPStorm</li>
                 <li>VS Code</li>
-
+            </ul>
+            
                 <h3 class="text-base mt-4 mb-1">Terminal</h3>
                 <li>Hyper</li>
 
