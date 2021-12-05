@@ -1,4 +1,4 @@
-<header class="max-w-lg mx-auto p-6 border-b border-gray-200 border-dashed">
+<header class="max-w-lg mx-auto p-6">
     <div class="flex justify-between text-lg">
         <h1 class="font-black hover:text-gray-500 transition-colors duration-300">
             <a href="/">johanhanses.com</a>

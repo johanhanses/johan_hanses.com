@@ -4,7 +4,7 @@
 
         <div class="mt-4 text-sm">
             <p class="text-base">
-                Inspired by Wes Bos <a href="https://uses.tech" target="_blank" class="text-blue-500 hover:underline">Uses</a>, here is my ever changing stuff.
+                Inspired by Wes Bos <a href="https://uses.tech" target="_blank" class="text-blue-500 hover:underline">Uses</a> (and a lot of others), here is my ever changing stuff.
             </p>
 
             <h2 class="mt-4 mb-2 text-lg underline">Software</h2>
@@ -71,7 +71,7 @@
                 <li>Apple Magic Mouse</li>
                 <li>Apple Airpods pro</li>
                 <li>Apple Watch series 6</li>
-                <li>Work monitor: Dell ?27??</li>
+                <li>Work monitor: Dell U2722D</li>
                 <li>Monitor at home office: Dell P2720D</li>
             </ul>
 
