@@ -17,7 +17,7 @@
                 <div class="space-y-2 leading-relaxed">
                     <p>
                         Laravel and JavaScript fullstack developer based in Falun, Sweden. Coding web stuff at
-                        <a href="https://panang.se" target="_blank" class="underline hover:text-gray-400 transition-colors duration-300">
+                        <a href="https://panang.se" target="_blank" rel="noreferrer" class="underline hover:text-gray-400 transition-colors duration-300">
                             Panang.
                         </a>
                     </p>
