@@ -13,12 +13,12 @@
                 CV
             </a>
 
-            <a
-                href="/uses"
-                class="hover:text-gray-500 transition-colors duration-300"
-            >
-                Uses
-            </a>
+{{--            <a--}}
+{{--                href="/uses"--}}
+{{--                class="hover:text-gray-500 transition-colors duration-300"--}}
+{{--            >--}}
+{{--                Uses--}}
+{{--            </a>--}}
         </nav>
     </div>
 </header>
